@@ -16,6 +16,7 @@
 - [03-Lev](03-Lev.md)
 - 
 ### 先知
+[45-Rom/Rom-QA#Rom 1](45-Rom/Rom-QA#Rom%201.md)
 
 ### 聖卷
 
