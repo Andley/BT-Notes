@@ -3,8 +3,8 @@
 ## 舊約
 
 - Gen 1:1
-- Lev1:1
-- Gal1:3
+- Lev 1:1
+- Gal 1:3
 - Rev 2:2
 
 - [45-Rom/QA#^398dae](45-Rom/Rom-QA.md#^398dae.md)
