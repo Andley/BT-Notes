@@ -1,0 +1,58 @@
+---
+---
+
+@import "{{ site.theme }}";
+ruby {
+    display: inline-flex;
+    flex-direction: column-reverse ;
+    align-items: center;
+    font-size: 16px ; 
+    line-height: 16px ;
+    padding-bottom: 10px ;
+    font-family: 'EB Garamond', 'Noto Sans TC', serif;
+  }
+  rt {
+    font-size: 13px ; 
+    line-height: 13px ;
+    font-family: 'Ubuntu Condensed', 'Noto Sans TC', sans-serif;
+  }
+  ul ruby {
+    padding-bottom: 3px !important;
+  }
+  h1 {
+    color: #C00000;
+    text-align: center;
+    border-bottom: 4px double ;
+  }
+  h2 {
+    text-align: center;
+  }
+<<<<<<< HEAD
+=======
+  ruby strong {
+    color: red;
+  }
+  ruby em {
+    color: blue;
+  }
+
+  p, html, body {
+    font-family: 'EB Garamond','Noto Sans', 'Noto Sans TC',  sans-serif;
+  }
+
+  section {
+    width: 85%;
+  }
+
+  section.footnotes {
+    /*width: 85%;*/
+    margin-top: 30px;
+  }
+  
+
+  /* text decoration for marking syntax functions */
+.S {text-decoration: underline double; text-underline-offset: 4px; }
+.P {text-decoration: underline wavy; text-underline-offset: 4px; }
+.C {text-decoration: underline solid; text-underline-offset: 4px; }
+.A {text-decoration: underline dotted; text-underline-offset: 4px; }
+>>>>>>> ea8084dd9e3e4b4b782f038867bda4fd109b228e
