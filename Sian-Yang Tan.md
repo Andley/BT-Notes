@@ -1,0 +1,44 @@
+- Chapter 3 A Biblical Model for Effective Lay Counseling
+	- 四種整合進路 (Crabb)
+		- (a) separate but equal
+		- (b) a tossed salad (equal and mixable)
+		- (c) nothing buttery (psychology is irrelevant); Scripture is enough
+		- (d) spoiling the Egyptians
+	- Biblical Model for Effective Lay Counseling
+		- 結合：
+			- Jay Adam's "nouthetic counseling 勸誡式輔導"
+			- Garry Collins "people-helping 友誼型輔導"
+			- Larry Crabb's "biblical counseling 聖經輔導"
+			- William Backus' "misbelief therapy 不信任治療法"
+			- Everett Worthington's practical guide to counseling
+		- biblically-based, comprehensive, eclectic, with a strong cognitive-behavioral component
+		- H. Norman Wright's "self-talk 自我對話"
+	- 三面向：
+		- (1) Basic view of humanity
+		- (2) Basic view of counseling
+		- (3) Basic principle of effective counseling
+	- Feeling ⇐ Behavior ⇐ Thinking
+	- 憂鬱症：
+		- exogenous depression 外因性憂鬱症
+		- endogenous depression 內因性的憂鬱症
+		- physiological 生理 causes
+		- metabolic causes 代謝 causes
+	- Crabb 4 circles (personal, rational, volitional, emotional)
+	- Adam Total Structuring
+		- 7 areas: 
+	- Arnold Lazarus 多重模式治療（multimodal therapy）
+		- BASIC I.D. (Behavior, Affect, Sensation, Imagery, Cognition, Interpersonal relationships, Drugs-biological factors) 
+		- 加上 S (spiritual dimensions)
+	- Counseling 諮商輔導 ≒ Psychotherapy 心理治療
+	- mental disorder 心靈疾患
+	- the heart of the matter is always the matter of the heart 事情的核心，總是關乎你的內心
+
+---
+A Christian approach to Counseling and Psychotherapy
+Christ-centered, Biblically-based, and Spirit-filled
+
+- Lecture 1: A Christian Perspective on Human Nature and Effective Counseling and Psychotherapy
+	- biblical anthropology (basic views of humanity)
+		- 5 points
+	- 14 points
+	- 

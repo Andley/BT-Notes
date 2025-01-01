@@ -1,0 +1,21 @@
+## TO-READ
+- [Lanier - 2022- Old Made New](file:///C:/Users/andle/SynologyDrive/Drive/Calibre/eBook/Greg%20Lanier/Old%20Made%20New_%20A%20Guide%20to%20the%20New%20Te%20(1843)/Old%20Made%20New_%20A%20Guide%20to%20the%20Ne%20-%20Greg%20Lanier.epub)
+- [Chou - 2019 - The Hermeneutics of the Biblical Writer](file:///C:/Users/andle/SynologyDrive/Drive/Calibre/eBook/Abner%20Chou/The%20Hermeneutics%20of%20the%20Biblical%20Wr%20(1473)/The%20Hermeneutics%20of%20the%20Biblica%20-%20Abner%20Chou.epub)
+- [Goldingay - 2017 - Reading Jesus's Bible](file:///C:/Users/andle/SynologyDrive/Drive/Calibre/eBook/John%20Goldingay/Reading%20Jesus's%20Bible_%20How%20the%20New%20(1199)/Reading%20Jesus's%20Bible_%20How%20the%20-%20John%20Goldingay.epub)
+- [Vlach - 2017 - How Does the New Testament Use the Old Testament?](file:///C:/Users/andle/SynologyDrive/Drive/Calibre/eBook/Michael%20Vlach/How%20Does%20the%20New%20Testament%20Use%20the%20(1674)/How%20Does%20the%20New%20Testament%20Use%20-%20Michael%20Vlach.epub)
+- [Beale - 2012 - Handbook on the New Testament Use oof the Old Testament](file:///C:/Users/andle/SynologyDrive/Drive/Calibre/eBook/Gregory%20K.%20Beale/Handbook%20on%20the%20New%20Testament%20Use%20o%20(625)/Handbook%20on%20the%20New%20Testament%20U%20-%20Gregory%20K.%20Beale.epub)
+- [Beale - 2012 - The Right Doctrine from the Wrong Text](file:///C:/Users/andle/SynologyDrive/Drive/Calibre/eBook/Gregory%20K.%20Beale/The%20Right%20Doctrine%20from%20the%20Wrong%20T%20(1421)/The%20Right%20Doctrine%20from%20the%20Wro%20-%20Gregory%20K.%20Beale.epub)
+- [Moyise - - The Later New Testament Writings and Scripture](file:///C:/Users/andle/SynologyDrive/Drive/Calibre/eBook/Steve%20Moyise/The%20Later%20New%20Testament%20Writings%20an%20(140)/The%20Later%20New%20Testament%20Writing%20-%20Steve%20Moyise.epub)
+- [Moyise - - Jesus and Scripture_](file:///C:/Users/andle/SynologyDrive/Drive/Calibre/eBook/Steve%20Moyise/Jesus%20and%20Scripture_%20Studying%20the%20N%20(142)/Jesus%20and%20Scripture_%20Studying%20t%20-%20Steve%20Moyise.epub)
+- [Moyise - - Paul and Scripture](file:///C:/Users/andle/SynologyDrive/Drive/Calibre/eBook/Steve%20Moyise/Paul%20and%20Scripture_%20Studying%20the%20Ne%20(139)/Paul%20and%20Scripture_%20Studying%20th%20-%20Steve%20Moyise.epub)
+- [Carson - Commentary on the New Testament Use of the Old Testament](file:///C:/Users/andle/SynologyDrive/Drive/Calibre/eBook/D.%20A.%20Carson/Commentary%20on%20the%20New%20Testament%20Use%20(623)/Commentary%20on%20the%20New%20Testament%20-%20D.%20A.%20Carson.epub)
+- [Porter - - Hearing the Old Testament in the New](file:///C:/Users/andle/SynologyDrive/Drive/Calibre/eBook/Stanley%20E.%20Porter/Hearing%20the%20Old%20Testament%20in%20the%20Ne%20(155)/Hearing%20the%20Old%20Testament%20in%20th%20-%20Stanley%20E.%20Porter.epub)
+- [Feinberg - 1988 - Continuity and Discontinuity](file:///C:/Users/andle/SynologyDrive/Drive/Calibre/eBook/John%20S.%20Feinberg/Continuity%20and%20Discontinuity_%20Persp%20(458)/Continuity%20and%20Discontinuity_%20P%20-%20John%20S.%20Feinberg.epub)
+
+
+## Definition
+- [互文性 - 維基百科](https://zh.wikipedia.org/zh-tw/%E4%BA%92%E6%96%87%E6%80%A7)
+	- > 互文性（英文：intertextuality）是指文本的意義由其他的文本所構成。作者將其他的文字借用和轉譯到創作之中，或者讀者在閱讀時參照其他的文本。互文性一詞在1966年由後結構主義學者茱莉亞·克莉斯蒂娃創造以來，多次被借用和轉譯。評論家Wiliam Irwin說：「對這個詞的歧見之多，幾乎和使用它的人數相當。從忠實地遵照 Kristeva 的原意，到只是將它當作是『引喻』和『影響』的時髦說法。」
+- [Intertextuality - Wikipedia](https://en.wikipedia.org/wiki/Intertextuality)
+	- >Intertextuality is the shaping of a text's meaning by another text, either through deliberate compositional strategies such as quotation, allusion, calque, plagiarism, translation, pastiche or parody,[1][2][3][4][5] or by interconnections between similar or related works perceived by an audience or reader of the text.[6] These references are sometimes made deliberately and depend on a reader's prior knowledge and understanding of the referent, but the effect of intertextuality is not always intentional and is sometimes inadvertent. Often associated with strategies employed by writers working in imaginative registers (fiction, poetry, and drama and even non-written texts like performance art and digital media),[7][8] intertextuality is now understood to be intrinsic to any text.[9]
+
