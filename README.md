@@ -7,7 +7,11 @@
 
 ---
 <RUBY><ruby><ruby>Βίβλος<rt>[The] book</rt></ruby><rt><a href="https://bible.fhl.net/new/s.php?N=0&k=00976&m=" target="_blank">βίβλος a-href</a></rt></ruby><rt>N-NSF</rt></RUBY><br>
-<RUBY><ruby><ruby>Βίβλος<rt>[The] book</rt></ruby><rt>[βίβλος link](https://bible.fhl.net/new/s.php?N=0&k=00976&m=)</rt></ruby><rt>N-NSF</rt></RUBY>
+<RUBY><ruby><ruby>Βίβλος<rt>[The] book</rt></ruby><rt>[βίβλος link](https://bible.fhl.net/new/s.php?N=0&k=00976&m=)</rt></ruby><rt>N-NSF</rt></RUBY><br>
+
+<RUBY><ruby><ruby>Βίβλος<rt>[The] book</rt></ruby><rt>[βίβλος](https://bible.fhl.net/new/s.php?N=0&k=00976&m=){target="_blank"}</rt></ruby><rt>N-NSF</rt></RUBY>
+
+
 
 ---
 
