@@ -1,23 +1,23 @@
 
-| Year | Survey | North American School —— SIL (Nida, Pike, Lamb,  Longacre, Levinsohn, Rubge) | English and Australian School —— SFL (Firth, Halliday, Hassan, Porter, Red, Yoon) | Continental European Model —— Scandinavian and German School of NT studies | South African School———— | Eclectic ——(Guthrie, Taylor) |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1973 |  |  |  |  |  | Louw () |
-| 1991 |  |  |  |  |  | Guthrie (Dissertation) |
-| 1992 | Black (Book) |  |  |  |  |  |
-| 1994 |  |  |  |  |  | Guthrie (Book) |
-| 1995 | Bodine (Book) |  | Reed (Dissertation) |  |  |  |
-| 1997 |  |  | Reed (Book) |  |  |  |
-| 1998 |  |  |  |  |  | Guthrie (Book) |
-| 1999 | Porter (Book) |  |  |  |  |  |
-| 2000 |  | Levinsohn (Book) |  |  |  |  |
-| 2005 |  |  | Westfall (Book) |  |  |  |
-| 2006 |  |  |  |  |  | Taylor (Book) |
-| 2008 | Porter (Article) |  |  |  | Du Toit (Article) |  |
-| 2009 | Porter (Book) |  |  |  |  |  |
-| 2010 |  | Runge (Book) |  |  |  |  |
-| 2011 |  |  | Varner (Book) |  |  |  |
-| 2017 |  |  | Yoou (Book) |  |  |  |
-| 2020 | Scacewater (Book) |  |  |  |  |  |
+| Year | Survey            | North American School —— SIL (Nida, Pike, Lamb,  Longacre, Levinsohn, Rubge) | English and Australian School —— SFL (Firth, Halliday, Hassan, Porter, Red, Yoon) | Continental European Model —— Scandinavian and German School of NT studies | South African School———— | Eclectic ——(Guthrie, Taylor) |
+| ---- | ----------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------ | ---------------------------- |
+| 1973 |                   |                                                                              |                                                                                   |                                                                            |                          | Louw ()                      |
+| 1991 |                   |                                                                              |                                                                                   |                                                                            |                          | Guthrie (Dissertation)       |
+| 1992 | Black (Book)      |                                                                              |                                                                                   |                                                                            |                          |                              |
+| 1994 |                   |                                                                              |                                                                                   |                                                                            |                          | Guthrie (Book)               |
+| 1995 | Bodine (Book)     |                                                                              | Reed (Dissertation)                                                               |                                                                            |                          |                              |
+| 1997 |                   |                                                                              | Reed (Book)                                                                       |                                                                            |                          |                              |
+| 1998 |                   |                                                                              |                                                                                   |                                                                            |                          | Guthrie (Book)               |
+| 1999 | Porter (Book)     |                                                                              |                                                                                   |                                                                            |                          |                              |
+| 2000 |                   | Levinsohn (Book)                                                             |                                                                                   |                                                                            |                          |                              |
+| 2005 |                   |                                                                              | Westfall (Book)                                                                   |                                                                            |                          |                              |
+| 2006 |                   |                                                                              |                                                                                   |                                                                            |                          | Taylor (Book)                |
+| 2008 | Porter (Article)  |                                                                              |                                                                                   |                                                                            | Du Toit (Article)        |                              |
+| 2009 | Porter (Book)     |                                                                              |                                                                                   |                                                                            |                          |                              |
+| 2010 |                   | Runge (Book)                                                                 |                                                                                   |                                                                            |                          |                              |
+| 2011 |                   |                                                                              | Varner (Book)                                                                     |                                                                            |                          |                              |
+| 2017 |                   |                                                                              | Yoou (Book)                                                                       |                                                                            |                          |                              |
+| 2020 | Scacewater (Book) |                                                                              |                                                                                   |                                                                            |                          |                              |
 
 
 

@@ -1,18 +1,26 @@
 # 聖經神學筆記
 
-## 舊約
+<a href="https://bible.fhl.net/new/s.php?N=0&k=05547&m=" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP','width=600,height=600'); return false;">Ἰησοῦς Pup 600x600</a><br>
+<a href="https://bible.fhl.net/new/s.php?N=0&k=05547&m=" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP','width=600); return false;">Ἰησοῦς Pup 600</a><br>
+<a href="https://bible.fhl.net/new/s.php?N=0&k=05547&m=" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP',); return false;">Ἰησοῦς Pup</a><br>
+<a href="https://bible.fhl.net/new/s.php?N=0&k=00976&m=" target="_blank">βίβλος blank</a>
 
-### 妥拉
+---
+<RUBY><ruby><ruby>Βίβλος<rt>[The] book</rt></ruby><rt><a href="https://bible.fhl.net/new/s.php?N=0&k=00976&m=" target="_blank">βίβλος a-href</a></rt></ruby><rt>N-NSF</rt></RUBY><br>
+<RUBY><ruby><ruby>Βίβλος<rt>[The] book</rt></ruby><rt>[βίβλος link](https://bible.fhl.net/new/s.php?N=0&k=00976&m=)</rt></ruby><rt>N-NSF</rt></RUBY>
 
-### 先知
+---
 
-### 聖卷
+<a href="" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP','width=600, height=600');">Ἰησοῦς</a>
+<a href="" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP','width=600');">Ἰησοῦς</a>
+<a href='' onClick='PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP');'>Ἰησοῦς</a>
 
-## 新約
+<RUBY><ruby><ruby>ἀπόστολος<rt>使徒</rt></ruby><rt>
+<a href="" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=00652&m=','PuP]u0022);'>ἀπόστολος</a></rt></ruby><rt>N-NSM</rt></RUBY>
+=======
 
-### 福音書
-
-### 使徒行傳
+<a href="https://bible.fhl.net/new/s.php?N=0&k=01078&m=" target="_blank">θεός blank</a>
+01078θεός bagd</a>
 
 ### 保羅書信
 - 羅馬書
