@@ -1,8 +1,8 @@
 # 聖經神學筆記
 
-<a href="https://bible.fhl.net/new/s.php?N=0&k=05547&m=" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP','width=600,height=600'); return false;">Ἰησοῦς Pup 600x600</a><br>
-<a href="https://bible.fhl.net/new/s.php?N=0&k=05547&m=" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP','width=600); return false;">Ἰησοῦς Pup 600</a><br>
-<a href="https://bible.fhl.net/new/s.php?N=0&k=05547&m=" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP',); return false;">Ἰησοῦς Pup</a><br>
+<a href="https://bible.fhl.net/new/s.php?N=0&k=05547&m=" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP','width=600,height=600')">Ἰησοῦς Pup 600x600</a><br>
+<a href="https://bible.fhl.net/new/s.php?N=0&k=05547&m=" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP','width=600')">Ἰησοῦς Pup 600</a><br>
+<a href="https://bible.fhl.net/new/s.php?N=0&k=05547&m=" onClick="PuP=window.open('https://bible.fhl.net/new/s.php?N=0&k=05547&m=','PuP')">Ἰησοῦς Pup</a><br>
 <a href="https://bible.fhl.net/new/s.php?N=0&k=00976&m=" target="_blank">βίβλος blank</a>
 
 ---
